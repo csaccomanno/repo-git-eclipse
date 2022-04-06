@@ -4,7 +4,7 @@ package spring.ws.json;
  * Hello world!
  *
  */
-public class App 
+public class SpringWsJSONApplication 
 {
     public static void main( String[] args )
     {
